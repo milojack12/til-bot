@@ -1,0 +1,10 @@
+# Generated output - contains potentially sensitive info
+TIL.md
+til-test.md
+*.md.report
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
